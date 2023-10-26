@@ -1,0 +1,14 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.text-color {
+    color: green;
+}
+
+span {
+    color: aqua;
+    font-size: 18px;
+}
